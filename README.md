@@ -6,3 +6,6 @@ V1.1: mire com o mouse, segure o botão esquerdo na mesa e solte para tacar. A f
 V1.2: música instrumental original gerada via Web Audio e efeitos de tacada, colisão, tabela e caçapa enviados pelo servidor. Música e efeitos têm controles independentes. O áudio começa após interação do usuário. Atualizar index.html, server.js e physics.js juntos.
 
 V1.3: física em passos fixos, snapshots 20 Hz e interpolação visual; mesa e bolas em cache. Atualize index.html, server.js e physics.js.
+
+## V1.4
+Rolamento visual esférico por deslocamento/raio, faixas e números projetados na superfície, iluminação fixa e cores mais saturadas. Apenas index.html mudou em relação à V1.3. Física e sincronização do servidor preservadas. Validação de sintaxe; teste visual e online ainda necessário.
