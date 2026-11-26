@@ -9,3 +9,5 @@ V1.3: física em passos fixos, snapshots 20 Hz e interpolação visual; mesa e b
 
 ## V1.4
 Rolamento visual esférico por deslocamento/raio, faixas e números projetados na superfície, iluminação fixa e cores mais saturadas. Apenas index.html mudou em relação à V1.3. Física e sincronização do servidor preservadas. Validação de sintaxe; teste visual e online ainda necessário.
+
+V1.5: interpolação por quadro do servidor, buffer inicial de 120 ms, cache de iluminação e áudio, textura de 40 px e atualização visual de rotação limitada a aproximadamente 30 Hz. Atualize index.html e server.js juntos.
