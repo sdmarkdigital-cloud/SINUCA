@@ -4,3 +4,5 @@ Atualize index.html, server.js e physics.js juntos no GitHub e publique no Rende
 
 Executar: npm install && npm start.
 Testar física: npm test.
+
+V1.7: card de resultado individual, com mensagens de vitória e derrota, revanche e opção de ver mesa. Espectadores veem o vencedor. Atualize index.html e server.js.
